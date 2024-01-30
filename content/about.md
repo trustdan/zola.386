@@ -5,11 +5,16 @@ date = 2024-02-01
 draft = false
 slug = "about"
 
+[taxonomies]
+categories = ["about"]
+
+tags = ["robotics", "battle", "field-day", "analytics", "joint-forces", "capture-the-flag", "hacking", "university", "academies", "racing-leagues", "industry", "innovators", "fun"]
+
 +++
 
-## The Dronecon Hackathon is a multi-day scrappathon. 
+## The Dronecon Hackathon is a multi-day scrappathon
 
-## Innovators will gather to change the way we see the sky.
+## Innovators will gather to change the way we see the sky
 
 \
 

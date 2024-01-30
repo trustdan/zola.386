@@ -6,16 +6,16 @@ draft = false
 slug = "readme"
 
 [taxonomies]
-categories = ["README"]
-tags = ["Command line interface", "how-to"]
+categories = ["readme"]
+tags = ["command-line-interface", "how-to"]
 
 [extra]
 comments = true
 +++
 
-## [Live demo](https://zola386.netlify.app/)
+## ZOLA.386 is a port of the BOOTSTRA.386 theme and was based on
 
-# ZOLA.386 is a port of the BOOTSTRA.386 theme and was based on:
+## [Live demo](https://zola386.netlify.app/)
 
 - [BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/): main idea, design.
 - [HUGO.386](https://themes.gohugo.io/hugo.386/): item placement.
