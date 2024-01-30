@@ -2,8 +2,8 @@ base_url = "https://zola386.netlify.app"
 # theme = "zola.386"
 
 default_language = "en"
-title = "ZOLA.386"
-description = "A port of the BOOTSTRA.386 theme."
+title = "Press tab to play"
+description = "Or use your mouse / cursor.  Whatever."
 
 highlight_code = true
 compile_sass = true
@@ -17,8 +17,8 @@ taxonomies = [
 
 
 [extra]
-author = "José Lopes"
-year = "2020"
+author = "Dronecon Hackathon"
+year = "Begun, the drone wars have."
 
 keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
@@ -45,8 +45,8 @@ label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
 label_category = "Category"
-label_author = "Author"
-label_date = "Date"
+label_author = "Event"
+label_date = ""
 label_taxonomy = "Taxonomy"
 label_reading = "Reading time"
 label_read_more = "Read more"

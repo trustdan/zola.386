@@ -1,13 +1,13 @@
 +++
-title = "Sem Nulla"
-description = "pharetra diam sit amet nisl suscipit"
-date = 2020-05-02
+title = "Dronecon Hackathon"
+description = "Hack now to win the morrow."
+date = 2024-02-01
 draft = false
-slug = "sem-nulla"
+slug = "home"
 
 [taxonomies]
-categories = ["laoreet"]
-tags = ["risus", "platea", "nunc"]
+categories = ["about"]
+tags = ["Robotics", "BATTLE", "Field day", "Analytics", "Joint forces and allies", "Capture the Flag", "Hacking", "University", "Academies", "Racing leagues", "Industry", "Innovators", "Fun"]
 
 [extra]
 comments = true

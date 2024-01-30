@@ -1,13 +1,13 @@
 +++
-title = "Lorem Ipsum"
-description = "dolor sit amet, consectetur"
+title = "zola.386 template demo"
+description = ""
 date = 2020-05-01
 draft = false
 slug = "lorem-ipsum"
 
 [taxonomies]
-categories = ["pellentesque"]
-tags = ["hac", "velit", "risus"]
+categories = ["demo"]
+tags = ["how-to"]
 
 [extra]
 comments = true
@@ -17,11 +17,18 @@ image = "https://zola386.netlify.app/lorem-ipsum/crt-phosphor-dots.png"
 
 Posuere urna nec tincidunt praesent semper. Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Mattis rhoncus urna neque viverra justo nec ultrices dui. Nulla pellentesque dignissim enim sit. Arcu ac tortor dignissim convallis aenean et.
 
-# Lorem ipsum
+# This was the site builder's lorem ipsum page about what it can look like.
+
+\
+
 ## dolor sit amet
+
 ### consectetur adipiscing elit
+
 #### sed do eiusmod tempor incididunt
+
 ##### ut labore et dolore magna aliqua
+
 ###### At tellus at urna condimentum mattis pellentesque
 
 **At tellus at urna** condimentum *mattis pellentesque* id nibh tortor.
