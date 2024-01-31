@@ -1,4 +1,5 @@
-base_url = "https://dronewa.rs"
+base_url = "http://127.0.0.1:1111/"
+home = "about.md"
 # theme = "zola.386"
 
 default_language = "en"
@@ -23,7 +24,7 @@ year = "Begun, the drone wars have."
 keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
 zola386_menu = [
-  {path="", name="Home"},
+  {path="about", name="Home"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
   {path="about", name="About"},

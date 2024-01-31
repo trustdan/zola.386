@@ -18,11 +18,11 @@ tags = ["robotics", "battle", "field-day", "analytics", "joint-forces", "capture
 
 \
 
-### [Dronecon Text One Pager PDF](https://raw.githubusercontent.com/trustdan/dronecon-hackathon/main/promo%19PDFs/dronecon-one-pager.pdf)
+### [Dronecon Text One Pager PDF](https://raw.githubusercontent.com/trustdan/dronecon-hackathon/main/promo%20PDFs/dronecon-one-pager.pdf)
 
 \
 
-### [Dronecon Colorful PDF](https://raw.githubusercontent.com/trustdan/dronecon-hackathon/main/promo%19PDFs/dronecon-poster.pdf)
+### [Dronecon Colorful PDF](https://raw.githubusercontent.com/trustdan/dronecon-hackathon/main/promo%20PDFs/dronecon-poster.pdf)
 
 \
 
